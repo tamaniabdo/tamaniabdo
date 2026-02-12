@@ -20,6 +20,14 @@
 
 ---
 
+## Phase 2 — MVP Slicing
+
+**Chosen MVP slice:** Upload PDF → Parse invoice_number & total → Store parsed fields → Show in UI → Flag mismatch vs. quoted amount
+
+**Reason:** This slice proves the core functionality of FreightCheck — detecting discrepancies between billed and expected charges — while keeping it minimal for first implementation.
+
+
+
 ## Acceptance Criteria (MVP)
 
 **Story #1 — Upload Invoice**
